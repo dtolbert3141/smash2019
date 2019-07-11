@@ -1,0 +1,31 @@
+body {
+	background:linear-gradient(-0.25turn, #3f87a6, #ebf8e1, #f69d3c); 
+	font-size: 40;
+   
+
+}
+
+
+
+#ven{font-size: 25px; word-spacing: 6px; margin:10px auto;padding:10px;width:70%;
+ 
+}
+
+
+
+a:link, a:visited {
+  background-color: linear-gradient (-0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+  color: black;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: bold;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: white;
+
+}
+
+
+
